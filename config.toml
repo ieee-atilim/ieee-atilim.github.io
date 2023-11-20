@@ -1,7 +1,6 @@
 baseurl = "https://devcows.github.io/hugo-universal-theme/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Atılım Üniversitesi IEEE"
-theme = ""
-themesDir = "../ieee_backup"
+theme = "hugo-universal-theme"
 languageCode = "tr"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
