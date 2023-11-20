@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Atılım Üniversitesi IEEE</title>
+    <link>https://devcows.github.io/hugo-universal-theme/categories/</link>
+    <description>Recent content in Categories on Atılım Üniversitesi IEEE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://devcows.github.io/hugo-universal-theme/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lorem</title>
+      <link>https://devcows.github.io/hugo-universal-theme/categories/lorem/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/categories/lorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://devcows.github.io/hugo-universal-theme/categories/programming/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pseudo</title>
+      <link>https://devcows.github.io/hugo-universal-theme/categories/pseudo/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/categories/pseudo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>starting</title>
+      <link>https://devcows.github.io/hugo-universal-theme/categories/starting/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/categories/starting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
