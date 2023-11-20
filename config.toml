@@ -1,12 +1,12 @@
-baseurl = "https://devcows.github.io/hugo-universal-theme/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-title = "Atılım Üniversitesi IEEE"
+baseurl = "https://ieee-atilim.github.io/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+title = "IEEE Atılım Üniversitesi"
 theme = "ieee_backup"
 themesDir = "ieee_backup/.."
 languageCode = "tr"
 # Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "en"
+defaultContentLanguage = "tr"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -28,36 +28,6 @@ pluralizelisttitles = false
     identifier = "menu.home"
     url        = "/"
     weight     = 1
-
-[[menu.main]]
-    name       = "Option 1: Default Page"
-    url        = "/"
-    weight     = 1
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 2: Application"
-    url        = "/"
-    weight     = 2
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 3: Startup"
-    url        = "/"
-    weight     = 3
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 4: Agency"
-    url        = "/"
-    weight     = 4
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 5: Portfolio"
-    url        = "/"
-    weight     = 5
-    parent     = "menu.home"
 
 [[menu.main]]
     name       = "Features"
