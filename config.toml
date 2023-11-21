@@ -24,7 +24,7 @@ pluralizelisttitles = false
 
 # Main menu
 [[menu.main]]
-    name       = "Home"
+    name       = "Ana Sayfa"
     identifier = "menu.home"
     url        = "/"
     weight     = 1
@@ -319,7 +319,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     identifier = "contact"
-    name       = "Contact"
+    name       = "İletişim"
     url        = "/contact/"
     weight     = 7
 
@@ -329,26 +329,27 @@ pluralizelisttitles = false
 
 [[menu.topbar]]
     weight = 2
+    name = "Instagram"
+    url = "https://www.instagram.com/ieeeatilim/"
+    pre = "<i class='fab fa-2x fa-instagram'></i>"
+
+
+[[menu.topbar]]
+    weight = 3
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/company/ieee-at%C4%B1l%C4%B1m-%C3%BCniversitesi/"
+    pre = "<i class='fab fa-2x fa-linkedin'></i>"
+
+[[menu.topbar]]
+    weight = 4
     name = "GitHub"
     url = "https://github.com/ieee-atilim"
     pre = "<i class='fab fa-2x fa-github'></i>"
 
 [[menu.topbar]]
-    weight = 3
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fab fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 4
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fab fa-2x fa-twitter'></i>"
-
-[[menu.topbar]]
     weight = 5
     name = "Email"
-    url = "mailto:hello@universal.com"
+    url = "mailto:atilimunieee@gmail.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
@@ -421,13 +422,13 @@ pluralizelisttitles = false
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
-    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+    address = """<p class="text-uppercase"><strong>Atılım Üniversitesi</strong>
+        <br>Kızılcaşar Mahallesi,
+        <br>İncek,
+        <br>Ankara
         <br>
-        <strong>Great Britain</strong>
+        <br>
+        <strong>Türkiye</strong>
       </p>
       """
 
@@ -487,14 +488,16 @@ pluralizelisttitles = false
 
 [params.see_more]
     enable = true
-    icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    icon = "fas fa-globe"
+    title = "Biz Kimiz?"
+    subtitle = "Biz ... aktif üyeye ve 6 komiteye sahip bir topluluğuz."
     link_url = "#"
-    link_text = "Check other homepages"
+    link_text = "Daha Detaylı Bilgi İçin"
 
 [params.clients]
-    enable = true
+    enable = false
+    # Setted "false" instead of deleting whole branch, if this part needed to be used in
+    # the future edit as the below says and set it "true".
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more information take a look at the README.
@@ -503,8 +506,8 @@ pluralizelisttitles = false
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "Son Etkinliklerimiz"
+    subtitle = ""
     hide_summary = false
 
 [params.footer.recent_posts]
