@@ -33,31 +33,9 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Hakkımızda"
     identifier = "menu.allpages"
-    url        = ""
+    url        = "/aboutus/"
     weight     = 2
 
-
-[[menu.main]]
-    name       = "Hakkımızda submenu1"
-    identifier = "section.ap-pages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Hakkımızda submenu2"
-    identifier = "section.ap-blog"
-    url        = "/blog/"
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "Submenu2 detail"
-    url        = "/blog/"
-    weight     = 1
-    parent     = "section.ap-blog"
     
     [[menu.main]]
     name       = "Ekibimiz"
