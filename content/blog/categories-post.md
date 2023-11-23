@@ -6,4 +6,4 @@ categories = ["programming","lorem","pseudo"]
 banner = "img/banners/kahvaltı1.jpg"
 authors = ["Süleyman Emre Erdem"]
 +++
-IEEE Atılım olarak İç Anadolu Bölge kahvaltısında diğer IEEE Ailesi üyeleriyle buluştuk 💙🥳🤩
+## IEEE Atılım olarak İç Anadolu Bölge kahvaltısında diğer IEEE Ailesi üyeleriyle buluştuk 💙🥳🤩
