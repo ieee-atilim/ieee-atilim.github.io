@@ -284,6 +284,14 @@ pluralizelisttitles = false
     slide_speed = 2000
     pagination_speed = 1000
 
+[params.see_more]
+    enable = true
+    icon = "fas fa-globe"
+    title = "Biz Kimiz?"
+    subtitle = "Biz ... aktif üyeye ve 6 komiteye sahip bir topluluğuz."
+    link_url = "#"
+    link_text = "Daha Detaylı Bilgi İçin"
+    
 [params.carouselTestimonials]
     items = 4
     auto_play = false
@@ -314,13 +322,6 @@ pluralizelisttitles = false
     title = "Testimonials"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
-[params.see_more]
-    enable = true
-    icon = "fas fa-globe"
-    title = "Biz Kimiz?"
-    subtitle = "Biz ... aktif üyeye ve 6 komiteye sahip bir topluluğuz."
-    link_url = "#"
-    link_text = "Daha Detaylı Bilgi İçin"
 
 [params.clients]
     enable = false
