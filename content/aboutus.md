@@ -23,13 +23,13 @@ işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
 
 # Komitelerimiz
 
-- [Computer Society (CS) ](https://ieee-atilim.github.io/ourteam/cs). ![Computer Society Logo](/static/img/comittee_logo/ieee-cs-logo.png = 180x180)
+- [Computer Society (CS) ](https://ieee-atilim.github.io/ourteam/cs). ![Computer Society Logo](/static/img/comittee_logo/ieee-cs-logo.png width="300" height="200")
 
 
--  [Women In Engineering (WIE) ](https://ieee-atilim.github.io/ourteam/wie). ![Women In Engineering Logo](/static/img/comittee_logo/ieee-wie-logo.png = 180x180)
+-  [Women In Engineering (WIE) ](https://ieee-atilim.github.io/ourteam/wie). ![Women In Engineering Logo](/static/img/comittee_logo/ieee-wie-logo.png width="300" height="200")
 
 
--  [Robotics And Automation Society (RAS) ](https://ieee-atilim.github.io/ourteam/ras). ![Robotics And Automation Society](/static/img/comittee_logo/ieee-ras-logo.png = 180x180)
+-  [Robotics And Automation Society (RAS) ](https://ieee-atilim.github.io/ourteam/ras). ![Robotics And Automation Society](/static/img/comittee_logo/ieee-ras-logo.png width="300" height="200")
 
 
 -  [Educational Activities (EA) ](https://ieee-atilim.github.io/ourteam/ea).
