@@ -23,25 +23,18 @@ işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
 
 # Komitelerimiz
 
-### Computer Society (CS) Komitesi
+- [Computer Society (CS) ](https://ieee-atilim.github.io/ourteam/cs). ![Computer Society Logo]("\img\comittee logo\ieee-cs-logo.png")
 
-Bilgisayar mühendisliği ve bilişim teknolojilerine ilgi duyan üyelerimize yönelik etkinlikler düzenler. Bu komite, yazılım geliştirme, yapay zeka, veri bilimi gibi konularda teknik seminerler ve atölye çalışmaları organize eder.
 
-### Women in Engineering (WIE) Komitesi
+-  [Women In Engineering (WIE) ](https://ieee-atilim.github.io/ourteam/wie). ![Women In Engineering Logo]("\img\comittee logo\ieee-wie-logo.png")
 
-Mühendislik alanında kadın liderliğini teşvik etmek, desteklemek ve bu alandaki kadın profesyonellerin güçlenmesine katkıda bulunmak amacıyla faaliyet gösterir. WIE Komitesi, mentorluk programları, paneller ve diğer etkinliklerle üyeler arasında dayanışma sağlar.
 
-### Robotics and Automation Society (RAS) Komitesi
+-  [Robotics And Automation Society (RAS) ](https://ieee-atilim.github.io/ourteam/ras). ![Robotics And Automation Society]("\img\comittee logo\ieee-ras-logo.png")
 
-Robotik ve otomasyon teknolojilerine ilgi duyan üyeler için çeşitli etkinlikler düzenler. Robot tasarımı, endüstriyel otomasyon ve benzeri konularda bilgi paylaşımını teşvik eder.
 
-### Educational Activities (EA) Komitesi
+-  [Educational Activities (EA) ](https://ieee-atilim.github.io/ourteam/ea).
 
-Eğitim alanında faaliyet gösteren bu komite, öğrencilere yönelik eğitici etkinlikler düzenler. Proje geliştirme, teknik yeterliliklerin artırılması ve öğrenme deneyimini destekleyen etkinliklerle üyelerin eğitimine katkıda bulunur.
 
-### Sponsorluk ve Kurumsal İlişkiler Komitesi
+-  [Sponsorluk Ve Kurumsal Ilişkiler ](https://ieee-atilim.github.io/ourteam/sk).
 
-Bu komite, topluluğun etkinliklerini destekleyecek maddi kaynakları sağlamak amacıyla sponsorluk anlaşmalarını düzenleyebilir.
-Yerel işletmelerle, endüstri kuruluşlarıyla ve diğer potansiyel sponsorlarla ilişkileri yönetebilir.
-Topluluğun bütçe gereksinimlerini karşılamak için sponsorluk fırsatlarını belirleyebilir ve bu sponsorlarla etkileşimde bulunabilir.
 
