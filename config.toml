@@ -265,7 +265,7 @@ pluralizelisttitles = false
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p class="hidden-sm hidden-xs">Bize buradan ulaşabilirsiniz: atilimunieee@gmail.com</p>
       <p class="hidden-md hidden-lg"><a href="atilimunieee@gmail.com" data-animate-hover="pulse"><i class="email"></i></a>
       <a href="mailto:atilimunieee@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
