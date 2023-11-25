@@ -13,4 +13,4 @@ TUSAŞ’ın düzenlediği Kulüpler Buluşması’nda Türk Havacılık ve Uzay
 
 #GözümüzYükseklerde
 
-https://www.instagram.com/p/CyLEah4NvGs/?img_index=1
+[Etkinlik Linki](https://www.instagram.com/p/CyLEah4NvGs/?img_index=1)
