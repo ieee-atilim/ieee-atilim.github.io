@@ -33,7 +33,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Hakkımızda"
     identifier = "menu.allpages"
-    url        = "/aboutus/"
+    url        = "/aboutus"
     weight     = 2
 
     

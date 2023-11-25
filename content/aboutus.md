@@ -23,16 +23,15 @@ işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
 
 # Komitelerimiz
 
-- ![Computer Society Logo](/static/img/comittee_logo/ieee-cs-logo.png ) [Computer Society (CS) ](https://ieee-atilim.github.io/ourteam/cs). 
+- ![Computer Society Logo](/img/comittee_logo/cs_logo.png ) [Computer Society (CS) ](https://ieee-atilim.github.io/ourteam/cs). 
 
 
-- ![Women In Engineering Logo](/static/img/comittee_logo/ieee-wie-logo.png ) [Women In Engineering (WIE) ](https://ieee-atilim.github.io/ourteam/wie). 
+- ![Women In Engineering Logo](/img/comittee_logo/wie_logo.png ) [Women In Engineering (WIE) ](https://ieee-atilim.github.io/ourteam/wie). 
 
--  ![Robotics And Automation Society](/static/img/comittee_logo/ieee-ras-logo.png ) [Robotics And Automation Society (RAS) ](https://ieee-atilim.github.io/ourteam/ras). 
+-  ![Robotics And Automation Logo](/img/comittee_logo/ras_logo.png ) [Robotics And Automation Society (RAS) ](https://ieee-atilim.github.io/ourteam/ras). 
 
--  [Educational Activities (EA) ](https://ieee-atilim.github.io/ourteam/ea).
-
+- [![Educational Activities Logo](/img/comittee_logo/ea_logo.png)](https://ieee-atilim.github.io/ourteam/ea)
 
 -  [Sponsorluk Ve Kurumsal Ilişkiler ](https://ieee-atilim.github.io/ourteam/sk).
 
-
+-  [Tanıtım ve Tasarım ](https://ieee-atilim.github.io/ourteam/tt).
