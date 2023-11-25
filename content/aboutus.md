@@ -32,7 +32,7 @@ işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
  
 
 
-- ![Computer Society Logo](/img/comittee_logo/wie_logo.png ) [Computer Society (CS) ](https://ieee-atilim.github.io/ourteam/wie).
+- ![Computer Society Logo](/img/comittee_logo/cs_logo.png ) [Computer Society (CS) ](https://ieee-atilim.github.io/ourteam/wie).
 
 - ![Women In Engineering Logo](/img/comittee_logo/wie_logo.png ) [Women In Engineering (WIE) ](https://ieee-atilim.github.io/ourteam/wie). 
 
