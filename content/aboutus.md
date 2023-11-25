@@ -23,8 +23,8 @@ işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
 
 # Komitelerimiz
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
+| Column 1 | Column 2 |
+| -------- | -------- |
 | [Computer Society (CS) ](https://ieee-atilim.github.io/ourteam/wie).      | [Women In Engineering (WIE) ](https://ieee-atilim.github.io/ourteam/wie).    | 
 | [Robotics And Automation Society (RAS) ](https://ieee-atilim.github.io/ourteam/ras).| [Kardeş Öğrenci Kolu](https://ieee-atilim.github.io/ourteam/kok)   |
 | [Educational Activities (EA) ](https://ieee-atilim.github.io/ourteam/ea) | [Tanıtım ve Tasarım ](https://ieee-atilim.github.io/ourteam/tt).
