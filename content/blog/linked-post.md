@@ -12,3 +12,5 @@ authors = ["IEEE CS"]
 TUSAŞ’ın düzenlediği Kulüpler Buluşması’nda Türk Havacılık ve Uzay Sanayii'ni keşfetmenin yanı sıra yeni dönemde gerçekleştireceğimiz faaliyetlerimizi konuştuk...
 
 #GözümüzYükseklerde
+
+https://www.instagram.com/p/CyLEah4NvGs/?img_index=1
