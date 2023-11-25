@@ -6,8 +6,9 @@ authors = ["IEEE CS"]
 categories = ["cyber securıty"]
 banner = "img/banners/cybertalks1.jpg"
 +++
-##🔵Computer Society (CS) olarak ikinci dönemin ilk etkinliği olan Cybertalks ile karşınızdayız. 🎉🎉🎉💻💻💻
+### 🔵Computer Society (CS) olarak ikinci dönemin ilk etkinliği olan Cybertalks ile karşınızdayız. 🎉🎉🎉💻💻💻
 
-##🔵 Siber Diploması Merkezi - Yönetim Kurulu Başkanı Fikri Arda Canpolat ile CyberTalks etkinliğimizi gerçekleştirdik.
+### 🔵 Siber Diploması Merkezi - Yönetim Kurulu Başkanı Fikri Arda Canpolat ile CyberTalks etkinliğimizi gerçekleştirdik.
 
-[Etkinlik Linki](https://www.instagram.com/p/CoAbKW4D7xa/)
+### [Etkinlik Instagram Gönderisi](https://www.instagram.com/p/CoAbKW4D7xa/)
+[![etkinlik](/img/banners/cybertalks1.jpg)](https://www.instagram.com/p/CoAbKW4D7xa/)
