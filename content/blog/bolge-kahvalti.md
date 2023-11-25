@@ -6,6 +6,12 @@ categories = ["Kahvaltı"]
 banner = "img/banners/kahvaltı1.jpg"
 authors = ["IEEE CS"]
 +++
+
 IEEE Atılım olarak İç Anadolu Bölge kahvaltısında diğer IEEE Ailesi üyeleriyle buluştuk 💙🥳🤩
 
-[Etkinlik Linki](https://www.instagram.com/p/Cy8bfYMNIvX/?img_index=1)
+![etkinlik](/img/banners/kahvaltı1.jpg)
+![etkinlik](/img/banners/kahvaltı2.jpg)
+
+
+
+[Etkinlik Gönderisi](https://www.instagram.com/p/Cy8bfYMNIvX/?img_index=1)
