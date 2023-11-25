@@ -23,6 +23,7 @@ işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
 
 # Komitelerimiz
 
+<!DOCTYPE html>
 <html>
     <head>
         <mate charest="utf-8" />
