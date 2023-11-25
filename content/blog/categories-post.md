@@ -7,3 +7,4 @@ banner = "img/banners/kahvaltı1.jpg"
 authors = ["Süleyman Emre Erdem"]
 +++
 ## IEEE Atılım olarak İç Anadolu Bölge kahvaltısında diğer IEEE Ailesi üyeleriyle buluştuk 💙🥳🤩
+![Computer Society Logo](/img/banners/kavaltı2.jpg)
