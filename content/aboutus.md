@@ -21,20 +21,15 @@ adından söz ettirmek,
 - Yenilikçi önerileri ve iş disiplini sayesinde Türkiye’de ve Dünya’da şirketlerin
 işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
 
-# Komitelerimiz
+# <center> Komitelerimiz
 
-  <img src="/img/comittee_logo/cs_logo.png" alt="Computer Society Logo">
-  <a href="https://ieee-atilim.github.io/ourteam/wie">Computer Society </a>
-  
-  <img src="/img/comittee_logo/wie_logo.png" alt="Women In Engineering Logo">
-  <a href="https://ieee-atilim.github.io/ourteam/wie">Women In Engineering (WIE) </a>
-
+- ![Computer Society Logo](/img/comittee_logo/wie_logo.png ) [Computer Society (CS) ](https://ieee-atilim.github.io/ourteam/wie).
 
 - ![Women In Engineering Logo](/img/comittee_logo/wie_logo.png ) [Women In Engineering (WIE) ](https://ieee-atilim.github.io/ourteam/wie). 
 
 -  ![Robotics And Automation Logo](/img/comittee_logo/ras_logo.png ) [Robotics And Automation Society (RAS) ](https://ieee-atilim.github.io/ourteam/ras). 
 
-- [![Educational Activities Logo](/img/comittee_logo/ea_logo.png)](https://ieee-atilim.github.io/ourteam/ea)
+- ![Educational Activities Logo](/img/comittee_logo/ea_logo.png)][Educational Activities (EA) ](https://ieee-atilim.github.io/ourteam/ea)
 
 -  [Sponsorluk Ve Kurumsal Ilişkiler ](https://ieee-atilim.github.io/ourteam/sk).
 
