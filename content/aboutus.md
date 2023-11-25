@@ -25,7 +25,7 @@ işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
 
 
   <a href="(https://ieee-atilim.github.io/ourteam/cs">
-  <img src="/img/comittee_logo/cs_logo.png" alt="Alt text" width="300" height="200">
+  <img src="/img/comittee_logo/cs_logo.png" alt="Computer Society" width="300" height="200">
   </a>
 
 
