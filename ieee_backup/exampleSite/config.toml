@@ -324,21 +324,21 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Blog"
     identifier = "section.ap-blog"
-    url        = "/blog/"
+    url        = "/events/"
     weight     = 3
     parent     = "menu.allpages"
     post       = 4
 
 [[menu.main]]
     name       = "Blog Listing Big"
-    url        = "/blog/"
+    url        = "/events/"
     weight     = 1
     parent     = "section.ap-blog"
 
 [[menu.main]]
     name       = "Blog"
     identifier = "menu.blog"
-    url        = "/blog/"
+    url        = "/events/"
     weight     = 5
 
 [[menu.main]]
@@ -387,7 +387,7 @@ pluralizelisttitles = false
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
-    viewMorePostLink = "/blog/"
+    viewMorePostLink = "/events/"
     author = "DevCows"
     defaultKeywords = ["devcows", "hugo", "go"]
     mainSections = ["blog"]
