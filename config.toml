@@ -277,7 +277,10 @@ pluralizelisttitles = false
 [params.widgets]
     categories = true
     tags = true
+    categoriesforbulten = true
+    tagsforbulten = true
     search = true
+
 
 [params.carouselCustomers]
     items = 6
