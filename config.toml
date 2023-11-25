@@ -184,7 +184,7 @@ pluralizelisttitles = false
     viewMorePostLink = "/blog/"
     author = "DevCows"
     defaultKeywords = ["devcows", "hugo", "go"]
-    mainSections = ["blog"]
+    mainSections = ["Etkinliklerimiz"]
     defaultDescription = "Site template made by Devcows using Hugo"
 
     # Social media
