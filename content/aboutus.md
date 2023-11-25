@@ -32,15 +32,15 @@ işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
  
 
 
-- ![Computer Society Logo](https://github.com/ieee-atilim/ieee-atilim.github.io/blob/main/static/img/comittee_logo/cs_logo.png) [Computer Society (CS) ](https://ieee-atilim.github.io/ourteam/wie).
+- ![Computer Society Logo](/img/comittee_logo/cs_logo.png) [Computer Society (CS) ](https://ieee-atilim.github.io/ourteam/wie).
 
-- ![Women In Engineering Logo](https://github.com/ieee-atilim/ieee-atilim.github.io/blob/main/static/img/comittee_logo/wie_logo.png) [Women In Engineering (WIE) ](https://ieee-atilim.github.io/ourteam/wie). 
+- ![Women In Engineering Logo](/img/comittee_logo/wie_logo.png) [Women In Engineering (WIE) ](https://ieee-atilim.github.io/ourteam/wie). 
 
-- ![Robotics And Automation Logo](https://github.com/ieee-atilim/ieee-atilim.github.io/blob/main/static/img/comittee_logo/ras_logo.png) [Robotics And Automation Society (RAS) ](https://ieee-atilim.github.io/ourteam/ras). 
+- ![Robotics And Automation Logo](/img/comittee_logo/ras_logo.png) [Robotics And Automation Society (RAS) ](https://ieee-atilim.github.io/ourteam/ras). 
 
-- ![Educational Activities Logo](https://github.com/ieee-atilim/ieee-atilim.github.io/blob/main/static/img/comittee_logo/ea_logo.png)[Educational Activities (EA) ](https://ieee-atilim.github.io/ourteam/ea)
+- ![Educational Activities Logo](/img/comittee_logo/ea_logo.png)[Educational Activities (EA) ](https://ieee-atilim.github.io/ourteam/ea)
 
-- ![Kardeş Öğrenci Kolu Logo](https://github.com/ieee-atilim/ieee-atilim.github.io/blob/main/static/img/comittee_logo/kok.png)[Kardeş Öğrenci Kolu](https://ieee-atilim.github.io/ourteam/kok).
+- ![Kardeş Öğrenci Kolu Logo](/img/comittee_logo/kok.png)[Kardeş Öğrenci Kolu](https://ieee-atilim.github.io/ourteam/kok).
 
 - [Sponsorluk Ve Kurumsal Ilişkiler ](https://ieee-atilim.github.io/ourteam/sk).
 
