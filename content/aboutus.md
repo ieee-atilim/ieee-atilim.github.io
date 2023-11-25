@@ -23,24 +23,27 @@ işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
 
 # Komitelerimiz
 
-<!DOCTYPE html>
-<html>
-    <head>
-        <mate charest="utf-8" />
-        <title>Hello world!</title>
-    </head>
-    <body>
-        <a href="https://ieee-atilim.github.io/ourteam/ea"><img src="/img/comittee_logo/ea_logo.png" alt="Educational Activities Logo"></a>
-    </body>
-	</html>
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| [Computer Society (CS) ](https://ieee-atilim.github.io/ourteam/wie).      | [Women In Engineering (WIE) ](https://ieee-atilim.github.io/ourteam/wie).    | 
+| [Robotics And Automation Society (RAS) ](https://ieee-atilim.github.io/ourteam/ras).| [Kardeş Öğrenci Kolu](https://ieee-atilim.github.io/ourteam/kok)   |
+| [Educational Activities (EA) ](https://ieee-atilim.github.io/ourteam/ea) | [Tanıtım ve Tasarım ](https://ieee-atilim.github.io/ourteam/tt).
+
+ 
+
+
 - ![Computer Society Logo](/img/comittee_logo/wie_logo.png ) [Computer Society (CS) ](https://ieee-atilim.github.io/ourteam/wie).
 
 - ![Women In Engineering Logo](/img/comittee_logo/wie_logo.png ) [Women In Engineering (WIE) ](https://ieee-atilim.github.io/ourteam/wie). 
 
--  ![Robotics And Automation Logo](/img/comittee_logo/ras_logo.png ) [Robotics And Automation Society (RAS) ](https://ieee-atilim.github.io/ourteam/ras). 
+- ![Robotics And Automation Logo](/img/comittee_logo/ras_logo.png ) [Robotics And Automation Society (RAS) ](https://ieee-atilim.github.io/ourteam/ras). 
 
 - ![Educational Activities Logo](/img/comittee_logo/ea_logo.png)][Educational Activities (EA) ](https://ieee-atilim.github.io/ourteam/ea)
 
--  [Sponsorluk Ve Kurumsal Ilişkiler ](https://ieee-atilim.github.io/ourteam/sk).
+- [Kardeş Öğrenci Kolu](https://ieee-atilim.github.io/ourteam/kok).
 
--  [Tanıtım ve Tasarım ](https://ieee-atilim.github.io/ourteam/tt).
+- [Sponsorluk Ve Kurumsal Ilişkiler ](https://ieee-atilim.github.io/ourteam/sk).
+
+- [Tanıtım ve Tasarım ](https://ieee-atilim.github.io/ourteam/tt).
+
+-  
