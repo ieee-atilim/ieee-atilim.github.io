@@ -40,7 +40,7 @@ işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
 
 - ![Educational Activities Logo](/img/comittee_logo/ea_logo.png)][Educational Activities (EA) ](https://ieee-atilim.github.io/ourteam/ea)
 
-- [Kardeş Öğrenci Kolu](https://ieee-atilim.github.io/ourteam/kok).
+- ![Kardeş Öğrenci Kolu Logo](/img/comittee_logo/kok_logo.png)][Kardeş Öğrenci Kolu](https://ieee-atilim.github.io/ourteam/kok).
 
 - [Sponsorluk Ve Kurumsal Ilişkiler ](https://ieee-atilim.github.io/ourteam/sk).
 
