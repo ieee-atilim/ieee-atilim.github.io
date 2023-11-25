@@ -1,9 +1,9 @@
 +++
-title = "Siber Diploması Merkezi - Yönetim Kurulu Başkanı Fikri Arda Canpolat ile CyberTalks"
+title = "Bir oyun var süper"
 date = "2023-02-04T13:47:08+02:00"
-tags = ["cyber", "game", "siber diplomasi", "cybertalks"]
+tagsforbulten = ["gamers"]
 authors = ["IEEE CS"]
-categories = ["cyber securıty"]
+categoriesforbulten = ["gamers"]
 banner = "img/banners/cybertalks1.jpg"
 +++
 ### 🔵Computer Society (CS) olarak ikinci dönemin ilk etkinliği olan Cybertalks ile karşınızdayız. 🎉🎉🎉💻💻💻

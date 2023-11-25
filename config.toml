@@ -141,7 +141,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Bülten"
-    identifier = "menu.faq"
+    identifier = "menu.bulten"
     url        = "/bulten/"
     weight     = 5
 
@@ -262,6 +262,7 @@ pluralizelisttitles = false
 
 [permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
+    bulten = "/bulten/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
@@ -346,3 +347,6 @@ pluralizelisttitles = false
   category = "categories"
   tag = "tags"
   author = "authors"
+  categoriesforbulten = "categoriesforbulten"
+  tagsforbulten = "tagsforbulten"
+
