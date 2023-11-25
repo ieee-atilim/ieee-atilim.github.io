@@ -142,7 +142,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Bülten"
     identifier = "menu.faq"
-    url        = "/faq/"
+    url        = "/bulten/"
     weight     = 5
 
 [[menu.main]]
