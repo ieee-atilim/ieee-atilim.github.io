@@ -136,7 +136,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Etkinliklerimiz"
     identifier = "menu.blog"
-    url        = "/blog/"
+    url        = "/events/"
     weight     = 4
 
 [[menu.main]]
@@ -181,10 +181,10 @@ pluralizelisttitles = false
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
-    viewMorePostLink = "/blog/"
+    viewMorePostLink = "/events/"
     author = "DevCows"
     defaultKeywords = ["devcows", "hugo", "go"]
-    mainSections = ["blog"]
+    mainSections = ["events"]
     defaultDescription = "Site template made by Devcows using Hugo"
 
     # Social media
@@ -261,7 +261,7 @@ pluralizelisttitles = false
       """
 
 [permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    events = "/events/:year/:month/:day/:filename/"
     bulten = "/bulten/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
