@@ -44,10 +44,24 @@ pluralizelisttitles = false
     weight     = 3
 
 [[menu.main]]
+    name       = "Yönetim"
+    identifier = "section.management"
+    url        = ""
+    weight     = 1
+    parent     = "menu.our_team"
+    post       = 1
+
+    [[menu.main]]
+    name       = "Yönetim Kurulu"
+    url        = "/our_team/yk"
+    weight     = 1
+    parent     = "section.management"
+
+[[menu.main]]
     name       = "Komitelerimiz"
     identifier = "section.our_team"
     url        = ""
-    weight     = 1
+    weight     = 2
     parent     = "menu.our_team"
     post       = 1
 
@@ -58,7 +72,7 @@ pluralizelisttitles = false
     parent     = "section.our_team"
 
 [[menu.main]]
-    name       = "WOMAN IN ENGINEERING"
+    name       = "WOMEN IN ENGINEERING"
     url        = "/our_team/wie"
     weight     = 2
     parent     = "section.our_team"
