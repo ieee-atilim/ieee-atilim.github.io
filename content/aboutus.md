@@ -21,7 +21,7 @@ adından söz ettirmek,
 - Yenilikçi önerileri ve iş disiplini sayesinde Türkiye’de ve Dünya’da şirketlerin
 işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
 
-# <center>Komitelerimiz</center>
+# Komitelerimiz
 
 [![Computer Society Logo](/img/comittee_logo/cs_logo.png)](https://ieee-atilim.github.io/ourteam/cs)
 -------------
