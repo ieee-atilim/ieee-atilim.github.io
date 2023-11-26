@@ -33,105 +33,66 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Hakkımızda"
     identifier = "menu.allpages"
-    url        = "/aboutus"
+    url        = "/about_us"
     weight     = 2
 
     
     [[menu.main]]
     name       = "Ekibimiz"
-    identifier = "menu.portfolio"
+    identifier = "menu.our_team"
     url        = "/img/template-homepage.png"
     weight     = 3
 
 [[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.portfolio"
+    name       = "Komitelerimiz"
+    identifier = "section.our_team"
     url        = ""
     weight     = 1
-    parent     = "menu.portfolio"
+    parent     = "menu.our_team"
     post       = 1
 
 [[menu.main]]
-    name       = "2 Columns"
-    url        = ""
+    name       = "COMPUTER SOCIETY"
+    url        = "/our_team/cs"
     weight     = 1
-    parent     = "section.portfolio"
+    parent     = "section.our_team"
 
 [[menu.main]]
-    name       = "2 Columns With Negative Space"
-    url        = ""
+    name       = "WOMAN IN ENGINEERING"
+    url        = "/our_team/wie"
     weight     = 2
-    parent     = "section.portfolio"
+    parent     = "section.our_team"
 
 [[menu.main]]
-    name       = "3 Columns"
-    url        = ""
+    name       = "ROBOTICS & AUTOMATION SOCIETY"
+    url        = "/our_team/ras"
     weight     = 3
-    parent     = "section.portfolio"
+    parent     = "section.our_team"
 
 [[menu.main]]
-    name       = "3 Columns With Negative Space"
-    url        = ""
+    name       = "EDUCATIONAL ACTIVITIES"
+    url        = "/our_team/ea"
     weight     = 4
-    parent     = "section.portfolio"
+    parent     = "section.our_team"
 
 [[menu.main]]
-    name       = "4 Columns"
-    url        = ""
+    name       = "Kardeş Öğrenci Kolları"
+    url        = "/our_team/kok"
     weight     = 5
-    parent     = "section.portfolio"
+    parent     = "section.our_team"
 
 [[menu.main]]
-    name       = "4 Columns With Negative Space"
-    url        = ""
+    name       = "Sponsorluk ve Kurumsal İlişkiler"
+    url        = "/our_team/sk"
     weight     = 6
-    parent     = "section.portfolio"
+    parent     = "section.our_team"
 
 [[menu.main]]
-    name       = "Portfolio - detail"
-    url        = ""
+    name       = "Tanıtım Tasarım"
+    url        = "/our_team/tt"
     weight     = 7
-    parent     = "section.portfolio"
+    parent     = "section.our_team"
 
-[[menu.main]]
-    name       = "Portfolio - detail 2"
-    url        = ""
-    weight     = 8
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "About"
-    identifier = "section.about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.portfolio"
-    post       = 2
-
-[[menu.main]]
-    name       = "About Us"
-    url        = ""
-    weight     = 1
-    parent     = "section.about"
-
-[[menu.main]]
-    name       = "Our Team"
-    url        = ""
-    weight     = 2
-    parent     = "section.about"
-
-[[menu.main]]
-    name       = "Marketing"
-    identifier = "section.marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.portfolio"
-    post       = 2
-
-[[menu.main]]
-    name       = "Packages"
-    url        = ""
-    weight     = 1
-    parent     = "section.marketing"
 
 [[menu.main]]
     name       = "Etkinliklerimiz"
