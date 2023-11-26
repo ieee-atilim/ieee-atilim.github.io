@@ -236,8 +236,8 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>1884 yılında Alexander Graham Bell ve Thomas Edison gibi dönemin büyük bilim adamlarınca temelleri atılmış olan IEEE, kâr amacı gütmeyen, teknik ve profesyonel bir kuruluştur. Ulusal ve uluslararası konferanslar, seminerler, kariyer geliştirme ve network üzerine mesleki toplantılar düzenler, gönüllü aktivitelerle liderlik ve diğer kişisel becerileri geliştirme fırsatı sunar. Aynı zamanda kariyer yönetimi ekipmanları ve kaynak materyaller ile üyelerine katkıda bulunur. IEEE’nin ‘Institute of Electrical and Electronics Engineer’ açılımı zamanla her meslek grubundan insanın kulübe katılımıyla geçerliliğini yitirip, günümüzde sadece resmi evraklarda kullanılmaktadır.</p>"
+    copyright = "Copyright (c) 2023, IEEE Atılım Üniversitesi Öğrenci Kolu; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
