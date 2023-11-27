@@ -102,7 +102,7 @@ pluralizelisttitles = false
     parent     = "section.our_team"
 
 [[menu.main]]
-    name       = "Tanıtım Tasarım"
+    name       = "Tanıtım ve Tasarım"
     url        = "/our_team/tt"
     weight     = 7
     parent     = "section.our_team"
