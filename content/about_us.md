@@ -38,9 +38,9 @@ ________________
 [![Kardeş Öğrenci Kolu Logo](/img/comittee_logo/kok.png)](https://ieee-atilim.github.io/ourteam/kok) Kardeş Öğrenci Kolu
 -------------
 ________________
-[Sponsorluk Ve Kurumsal Ilişkiler ](https://ieee-atilim.github.io/ourteam/sk) Sponsorluk Ve Kurumsal Ilişkiler
+[Sponsorluk Ve Kurumsal Ilişkiler ](https://ieee-atilim.github.io/ourteam/sk)
 -------------
 ________________
-[Tanıtım ve Tasarım ](https://ieee-atilim.github.io/ourteam/tt) Tanıtım Ve Tasarım
+[Tanıtım ve Tasarım ](https://ieee-atilim.github.io/ourteam/tt)
  -------------
  _______________
