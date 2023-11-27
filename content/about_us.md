@@ -25,15 +25,22 @@ işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
 
 [![Computer Society Logo](/img/comittee_logo/cs_logo.png)](https://ieee-atilim.github.io/our_team/cs)
 -------------
+________________
 [![Women In Engineering Logo](/img/comittee_logo/wie_logo.png)](https://ieee-atilim.github.io/ourteam/wie)
 -------------
+________________
 [![Robotics And Automation Logo](/img/comittee_logo/ras_logo.png)](https://ieee-atilim.github.io/ourteam/ras)
 -------------
+________________
 [![Educational Activities Logo](/img/comittee_logo/ea_logo.png)](https://ieee-atilim.github.io/ourteam/ea)
 -------------
+________________
 [![Kardeş Öğrenci Kolu Logo](/img/comittee_logo/kok.png)](https://ieee-atilim.github.io/ourteam/kok)
 -------------
+________________
 [Sponsorluk Ve Kurumsal Ilişkiler ](https://ieee-atilim.github.io/ourteam/sk)
 -------------
+________________
 [Tanıtım ve Tasarım ](https://ieee-atilim.github.io/ourteam/tt)
  -------------
+ _______________
