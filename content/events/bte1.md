@@ -16,4 +16,4 @@ _________
 _________
 [![etkinlik](/img/banners/bte-taleworlds4.jpg)](https://www.instagram.com/p/C0PKlqbNz8W/?img_index=4)
 _________
-![etkinlik](/img/banners/bte-taleworlds5.jpg)]
+![etkinlik](/img/banners/bte-taleworlds5.jpg)
