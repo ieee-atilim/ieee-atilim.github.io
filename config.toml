@@ -264,7 +264,7 @@ pluralizelisttitles = false
     pagination_speed = 1000
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fas fa-globe"
     title = "Biz Kimiz?"
     subtitle = "Biz ... aktif üyeye ve 6 komiteye sahip bir topluluğuz."
@@ -287,14 +287,14 @@ pluralizelisttitles = false
     pagination_speed = 1000
 
 [params.features]
-    enable = true
+    enable = false
     cols = 3 # Default: 3, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.

@@ -14,6 +14,9 @@ banner = "img/banners/tusas1.jpg"
 
 ### [Etkinlik Instagram Gönderisi](https://www.instagram.com/p/Cy8bfYMNIvX/?img_index=1)
 [![etkinlik](/img/banners/tusas1.jpg)](https://www.instagram.com/p/CyLEah4NvGs/?img_index=1)
+_______
 [![etkinlik](/img/banners/tusas2.jpg)](https://www.instagram.com/p/CyLEah4NvGs/?img_index=2)
+_______
 [![etkinlik](/img/banners/tusas3.jpg)](https://www.instagram.com/p/CyLEah4NvGs/?img_index=3)
+_______
 [![etkinlik](/img/banners/tusas4.jpg)](https://www.instagram.com/p/CyLEah4NvGs/?img_index=4)
