@@ -157,14 +157,14 @@ pluralizelisttitles = false
 
 [params]
     viewMorePostLink = "/events/"
-    author = "DevCows"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    author = "IEEE Atılım"
+    defaultKeywords = ["ieee atilim", "ieee atılım", "atilim ieee", "atılım ieee"]
     mainSections = ["events"]
-    defaultDescription = "Site template made by Devcows using Hugo"
+    defaultDescription = "IEEE Atılım"
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
-    twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
+    twitter_site = "IeeeAtilim" # the Twitter handle of your site (without the '@')
     default_sharing_image = "img/sharing-default.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
