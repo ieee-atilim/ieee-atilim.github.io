@@ -1,3 +1,4 @@
+enableRobotsTXT = true
 baseurl = "https://ieee-atilim.github.io/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "IEEE Atılım Üniversitesi"
 theme = "ieee_backup"
