@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Atılım Üniversitesi IEEE</title>
-    <link>https://devcows.github.io/hugo-universal-theme/</link>
+    <title>IEEE Atılım Üniversitesi</title>
+    <link>https://ieee-atilim.github.io/</link>
     <description>Recent content on Atılım Üniversitesi IEEE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
