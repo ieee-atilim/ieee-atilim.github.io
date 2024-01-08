@@ -3,6 +3,32 @@
 
   <head>
     <meta charset="utf-8">
+  <meta name="google-site-verification" content="INyKYYqR0owE0OMFhAipX9pDNimjuaMeoXlAEjyAtuc" /> 
+  <meta name="keywords" content="ieee atilim, ieee atılım, atılım ieee, atilim ieee" />
+  <meta property="og:site_name" content="{{ $.Site.Title }}" />
+  <meta property="og:title" content="{{ $.Site.Title }}" />
+  <meta name="twitter:site" content="@IeeeAtilim" />
+  <meta name="twitter:creator" content="@yIeeeAtilim" />
+  <meta name="theme-color" content="#1a202c">
+
+  {{ if .IsPage }}
+    <title>{{ .Title }} | {{ $.Site.Title }}</title>
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:description" content="{{ .Summary }}" />
+  <meta name="description" content="{{ .Summary }}" />
+  <meta property="twitter:title" content="{{ .Title }}" />
+  <meta property="twitter:description" content="{{ .Summary }}" />
+  <meta property="article:author" content="your-name" />
+  <meta property="article:published_time" content="{{ .Date }}" />
+{{ else }}
+  <title>{{ $.Site.Title }}</title>
+  <meta name="twitter:card" content="summary" />
+  <meta property="og:title" content="{{ $.Site.Title }}" />
+  <meta property="og:description" content="IEEE Atılım" />
+  <meta name="description" content="IEEE Atılım" />
+{{ end }}
+	  
 <meta name="robots" content="all,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
 <meta name="viewport" content="width=device-width, initial-scale=1">
