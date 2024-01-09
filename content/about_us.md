@@ -2,9 +2,16 @@
 title = "Hakkımızda"
 +++
 
-# Hakkımızda
 
-Atılım Üniversitesi IEEE Topluluğu, 2017 yılında kurulan bir öğrenci topluluğudur. Mühendislik alanındaki öğrencileri bir araya getirerek inovasyonu desteklemeyi ve bilgi paylaşımını teşvik etmeyi amaçlar. Topluluğumuz, IEEE'nin (Institute of Electrical and Electronics Engineers) küresel ağına bağlı olarak, öğrencilere, öğretim üyelerine ve endüstri profesyonellerine yönelik çeşitli etkinlikler düzenleyerek katılımcıların bilgi ve deneyimlerini artırmayı hedefler.
+# IEEE Nedir?
+
+1884 yılında Alexander Graham Bell ve Thomas Edison gibi dönemin büyük bilim adamlarınca temelleri atılmış olan IEEE, uluslararası, kâr amacı gütmeyen, teknik ve profesyonel bir kuruluştur. Ulusal ve uluslararası konferanslar, seminerler, kariyer geliştirme ve network üzerine mesleki toplantılar düzenler, gönüllü aktivitelerle liderlik ve diğer kişisel becerileri geliştirme fırsatı sunar. Aynı zamanda kariyer yönetimi ekipmanları ve kaynak materyaller ile üyelerine katkıda bulunur. IEEE’nin ‘Institute of Electrical and Electronics Engineer’ açılımı zamanla her meslek grubundan insanın kulübe katılımıyla geçerliliğini yitirip, günümüzde sadece resmi evraklarda kullanılmaktadır. 
+
+IEEE Türkiye, dünya üzerinde IEEE'nin 10 bölgesi içerisinde 8. bölgede yer almaktadır. Bu bölge 8 Ocak 1963 yılında Avrupa, Orta Doğu, Afrika’yı kapsayacak şekilde kurulmuştur.
+
+# IEEE Atılım Üniversitesi Öğrenci Kolu
+
+Atılım Üniversitesi IEEE Topluluğu, 2017 yılında kurulan bir öğrenci topluluğudur. Mühendislik alanındaki öğrencileri bir araya getirerek inovasyonu desteklemeyi ve bilgi paylaşımını teşvik etmeyi amaçlar. Topluluğumuz, IEEE'nin (Institute of Electrical and Electronics Engineers) küresel ve ulusal ağına bağlı olarak, öğrencilere, öğretim üyelerine ve endüstri profesyonellerine yönelik çeşitli etkinlikler düzenleyerek katılımcıların bilgi ve deneyimlerini artırmayı hedefler.
 
 ### Misyonumuz
 
@@ -21,26 +28,5 @@ adından söz ettirmek,
 - Yenilikçi önerileri ve iş disiplini sayesinde Türkiye’de ve Dünya’da şirketlerin
 işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
 
-# Komitelerimiz
-
-[![Computer Society Logo](/img/comittee_logo/cs_logo.png)](https://ieee-atilim.github.io/our_team/cs)    Computer Society
--------------
-________________
-[![Women In Engineering Logo](/img/comittee_logo/wie_logo.png)](https://ieee-atilim.github.io/ourteam/wie)    Women In Engineering
--------------
-________________
-[![Robotics And Automation Logo](/img/comittee_logo/ras_logo.png)](https://ieee-atilim.github.io/ourteam/ras)     Robotics And Automation
--------------
-________________
-[![Educational Activities Logo](/img/comittee_logo/ea_logo.png)](https://ieee-atilim.github.io/ourteam/ea)    Educational Activities
--------------
-________________
-[![Kardeş Öğrenci Kolu Logo](/img/comittee_logo/kok.png)](https://ieee-atilim.github.io/ourteam/kok)     Kardeş Öğrenci Kolu
--------------
-________________
-[Sponsorluk Ve Kurumsal Ilişkiler ](https://ieee-atilim.github.io/ourteam/sk)
--------------
-________________
-[Tanıtım ve Tasarım ](https://ieee-atilim.github.io/ourteam/tt)
- -------------
- _______________
+_________
+_________
