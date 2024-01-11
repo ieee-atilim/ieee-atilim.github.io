@@ -4,7 +4,13 @@ title = "ROBOTICS & AUTOMATION SOCIETY"
 
 ## Robotics & Automation Society Nedir?
 
-IEEE Atılım Üniversitesi Robotics & Automation Society komitesi...
+IEEE topluluğunun alt komitelerinden biri olan Robotics and Automation Society’nin (RAS) amaçları; bilimsel, edebi ve eğitimsel niteliktedir. 
+
+Topluluk; robotik sistemler ve otomasyon mühendisliği, bağlaşık sanatlar ve bilimler teorisi ve pratiğinin ilerletilmesi ve üyeleri arasındaki yüksek mesleki standartların IEEE Anayasası ve Tüzüğü ile uyumlu olarak sürdürülmesi için çaba göstermektedir.
+
+Misyonu üyelere, mesleğe ve insanlığa fayda sağlayan Robotik ve Otomasyondaki bilimsel ve teknolojik bilgilerin değişimini kolaylaştırmaktır. 
+
+Vizyonu Robotik ve Otomasyonda en tanınmış ve saygın küresel organizasyon olmaktır.
 
 ### Hasan Hüseyin Kaya
 #### Robotics & Automation Society Komite Başkanı

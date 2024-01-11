@@ -4,7 +4,11 @@ title = "WOMEN IN ENGINEERING"
 
 ## Women in Engineering Nedir?
 
-IEEE Atılım Üniversitesi Women in Engineering komitesi...
+Kadınların; bilim, teknoloji, mühendislik, kariyer ve yönetim alanlarındaki gelişimlerine katkı sağlamak. Onların sektördeki yerlerini vurgulamak ve daha aktif, yaratıcı olmalarını kendine amaç edinen uluslararası en büyük meslek örgütüdür. 
+
+WIE, kadın ve erkeklerin bilim, sanayi, teknoloji ve toplumsal kariyer alanlarında birlikteliğini ve eşitliğini öngörür. 
+
+IEEE WIE’nin misyonu teknik disiplinlerdeki kadınların kariyer alanında is bulmalarını ve iş hayatlarındaki sürdürülebilirliklerini kolaylaştırmaktır.
 
 ### Melisa Aki
 #### Women in Engineering Komite Başkanı

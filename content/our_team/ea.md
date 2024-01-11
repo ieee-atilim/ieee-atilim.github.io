@@ -4,7 +4,12 @@ title = "EDUCATIONAL ACTIVITIES"
 
 ## Educational Activities Nedir?
 
-IEEE Atılım Üniversitesi Educational Activities komitesi...
+IEEE topluluğunun alt komitelerinden biri olan Educational Activities (EA), asıl amaç çevremizde gördüğümüz sosyal sorunlara teknolojik çözümler getirmek ve sosyal hayattaki gruplara eğitimler vermektir. 
+
+Teknik bilginin ve sosyal sorumluluğun tek amaç altında eritilip, birleştirildiği projeler üretir. Yaptığı faaliyetlere örnek olarak “Hour of Code (HOC) ortaokul öğrencilerine kodlama eğitimi” ve “Bilim Deneyleri” ile orta-ilkokul seviyesindeki öğrencilerine deneyler ve sunumlarla mühendisliği tanıtmıştır. Bilimi, feni ve matematiği sevdirmeyi ve aşılamayı hedeflemiş bir etkinliğidir. 
+
+“Teach and Make (TAM)” etkinliği ile öğrencilere önce bilgiyi öğretmeye sonra da onlardan öğrendiklerini geliştirme fırsatı sunup bir projeler üzerinden dönüt sağlamasına odaklanmıştır.
+
 
 ### Kağan Bayır
 #### Educational Activities Komite Başkanı

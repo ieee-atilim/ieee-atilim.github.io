@@ -4,7 +4,12 @@ title = "SPONSORLUK ve KURUMSAL İLİŞKİLER"
 
 ## Sponsorluk ve Kurumsal İlişkiler Nedir?
 
-IEEE Atılım Üniversitesi Sponsorluk ve Kurumsal İlişkiler komitesi...
+IEEE Atılım Üniversitesi Sponsorluk ve Kurumsal İlişkiler Komitesi'nin amacı IEEE Atılım Üniversitesi Öğrenci Kolu’nun alt kolları aracılığıyla düzenleyeceği etkinlikler, eğitimler, atölye çalışmaları ve üreteceği yeni projeler için kaynak sağlamaktır. 
+
+Gerek şirketlerle gerek resmî kurumlarla gerekse esnafla iletişime geçip topluluğumuzun reklamını yapıp sempati oluşturarak kurumsal çevrede bağ kurmaya özen gösterir. 
+
+İkincil görevi ise topluluğumuzun kurumsal yapısını düzenleyerek profesyonel icraatlar ortaya çıkarmasına yardımcı olur.
+
 
 ### Ela Ayça Koçoğlu
 #### Sponsorluk ve Kurumsal İlişkiler Komite Başkanı
