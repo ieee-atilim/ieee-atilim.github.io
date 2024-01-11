@@ -1,39 +1,57 @@
 +++
-title = "Yönetim Kurulu"
+title = "YONETIM KURULU"
 +++
 
-# Hakkımızda
+### İbrahim Emre Çelikkalem
+#### Yönetim Kurulu Başkanı
+ ![İbrahim Emre Çelikkalem](/img/yk/emre.jpg)
+_________
+İletişim:
 
-Atılım Üniversitesi IEEE Topluluğu, 2017 yılında kurulan bir öğrenci topluluğudur. Mühendislik alanındaki öğrencileri bir araya getirerek inovasyonu desteklemeyi ve bilgi paylaşımını teşvik etmeyi amaçlar. Topluluğumuz, IEEE'nin (Institute of Electrical and Electronics Engineers) küresel ağına bağlı olarak, öğrencilere, öğretim üyelerine ve endüstri profesyonellerine yönelik çeşitli etkinlikler düzenleyerek katılımcıların bilgi ve deneyimlerini artırmayı hedefler.
+[emrecelikkalem@gmail.com](mailto:emrecelikkalem@gmail.com)
 
-### Misyonumuz
+[LinkedIn](https://www.linkedin.com/in/emre-%C3%A7elikkalem-634a96225/)
+________
 
-IEEE Atılım Üniversitesi Öğrenci Kolu Kulübü üyelerinin ve kulübün etkileşim içinde
-olduğu bireylerin araştırmacı, liderlik becerilerine sahip, paylaşımcı, kendine güvenen,
-girişimci ve mesleklerinde teknik ve sosyal açıdan fark yaratan bireyler olmalarını sağlamak.
+### Saime Ecem Nuray
+#### Yönetim Kurulu Başkan Yardımcısı
+ ![Saime Ecem Nuray](/img/yk/emre.jpg)
+_________
+İletişim:
 
-### Vizyonumuz
+[nuray.saimeecem@student.atilim.edu.tr](mailto:nuray.saimeecem@student.atilim.edu.tr)
 
-- Atılım Üniversitesinde tüm öğrenciler tarafından en çok bilinen öğrenci kulübü olmak,
-- IEEE Türkiye yapısında lider öğrenci kulübü haline gelmek,
-- Yıl içerisinde yaptığı akademik çalışmalar , teknik projeler ve sosyal etkinlikler ile
-adından söz ettirmek,
-- Yenilikçi önerileri ve iş disiplini sayesinde Türkiye’de ve Dünya’da şirketlerin
-işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
+[LinkedIn](https://www.linkedin.com/in/ecem-nuray-6b59a01ba/)
+________
 
-# Komitelerimiz
+### Ata Eren Gökçe
+#### Yönetim Kurulu Üyesi
+ ![Ata Eren Gökçe](/img/yk/emre.jpg)
+_________
+İletişim:
 
-[![Computer Society Logo](/img/comittee_logo/cs_logo.png)](https://ieee-atilim.github.io/our_team/cs)
--------------
-[![Women In Engineering Logo](/img/comittee_logo/wie_logo.png)](https://ieee-atilim.github.io/ourteam/wie)
--------------
-[![Robotics And Automation Logo](/img/comittee_logo/ras_logo.png)](https://ieee-atilim.github.io/ourteam/ras)
--------------
-[![Educational Activities Logo](/img/comittee_logo/ea_logo.png)](https://ieee-atilim.github.io/ourteam/ea)
--------------
-[![Kardeş Öğrenci Kolu Logo](/img/comittee_logo/kok.png)](https://ieee-atilim.github.io/ourteam/kok)
--------------
-[Sponsorluk Ve Kurumsal Ilişkiler ](https://ieee-atilim.github.io/ourteam/sk)
--------------
-[Tanıtım ve Tasarım ](https://ieee-atilim.github.io/ourteam/tt)
- -------------
+[gokce.ataeren@student.atilim.edu.tr](mailto:gokce.ataeren@student.atilim.edu.tr)
+
+[LinkedIn](https://www.linkedin.com/in/ata-eren-g%C3%B6k%C3%A7e-674a111a4/)
+________
+
+### Kumsal Meriç
+#### Yönetim Kurulu Üyesi
+ ![Kumsal Meriç](/img/yk/emre.jpg)
+_________
+İletişim:
+
+[meric.kumsal@student.atilim.edu.tr](mailto:meric.kumsal@student.atilim.edu.tr)
+
+[LinkedIn](https://www.linkedin.com/in/kumsal-meri%C3%A7-270541201/)
+________
+
+### Melissa Demir
+#### Yönetim Kurulu Üyesi
+ ![Melissa Demir](/img/yk/emre.jpg)
+_________
+İletişim:
+
+[melssadem019@gmail.com](mailto:melssadem019@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/melissa-demir/)
