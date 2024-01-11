@@ -15,7 +15,7 @@ ________
 
 ### Saime Ecem Nuray
 #### Yönetim Kurulu Başkan Yardımcısı
- ![Saime Ecem Nuray](/img/yk/emre.jpg)
+ ![Saime Ecem Nuray](/img/yk/nuray.jpg)
 _________
 İletişim:
 
@@ -26,7 +26,7 @@ ________
 
 ### Ata Eren Gökçe
 #### Yönetim Kurulu Üyesi
- ![Ata Eren Gökçe](/img/yk/emre.jpg)
+ ![Ata Eren Gökçe](/img/yk/gokce.jpg)
 _________
 İletişim:
 
@@ -37,7 +37,7 @@ ________
 
 ### Kumsal Meriç
 #### Yönetim Kurulu Üyesi
- ![Kumsal Meriç](/img/yk/emre.jpg)
+ ![Kumsal Meriç](/img/yk/meric.jpg)
 _________
 İletişim:
 
@@ -48,7 +48,7 @@ ________
 
 ### Melissa Demir
 #### Yönetim Kurulu Üyesi
- ![Melissa Demir](/img/yk/emre.jpg)
+ ![Melissa Demir](/img/yk/demir.jpg)
 _________
 İletişim:
 
