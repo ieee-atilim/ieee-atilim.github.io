@@ -1,3 +1,4 @@
+---
 +++
 title = "COMPUTER SOCIETY"
 +++
@@ -28,3 +29,4 @@ _________
 [ececanpolattt@gmail.com](mailto:ececanpolattt@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/ece-canpolat-9a2594257/)
+---
