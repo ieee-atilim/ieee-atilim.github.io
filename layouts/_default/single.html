@@ -8,7 +8,7 @@
 
   <body>
 
-    <div id="all" style="text-align: center;">
+    <div id="all">
 
         {{ partial "top.html" . }}
 
@@ -23,7 +23,7 @@
 
                     <!-- *** LEFT COLUMN *** -->
 
-                    <div class="col-md-9" id="blog-post" style="text-align: center;">
+                    <div id="blog-post" style="text-align: center;">
 
                         {{ if or .Params.author .Params.date }}
                           <p class="text-muted text-uppercase mb-small text-right">
