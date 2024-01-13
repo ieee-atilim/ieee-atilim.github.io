@@ -1,8 +1,7 @@
----
 +++
 title = "COMPUTER SOCIETY"
 +++
-
+---
 ## Computer Society Nedir?
 
 IEEE Atılım Üniversitesi Computer Society komitesi, bilgisayar bilimlerinin kapsadığı tüm konular hakkında etkinlikler, eğitimler ve yarışmalar düzenler. 
