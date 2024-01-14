@@ -1,8 +1,8 @@
 weight: 2
-title: "Ekibimiz"
+title: "Ekibimiz " icon = "fas fa-globe"
 description: >
   <ul class="list-style-none">
      <li>Ekibimiz hakkında detaylı bilgi edinin</li>
    </ul>
-image: ""
-href: ""
+image: "img/carousel/team_photo.jpg"
+href: "https://ieee-atilim.github.io/our_team/yk/"
