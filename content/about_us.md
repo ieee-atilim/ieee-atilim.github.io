@@ -28,5 +28,3 @@ adından söz ettirmek,
 - Yenilikçi önerileri ve iş disiplini sayesinde Türkiye’de ve Dünya’da şirketlerin
 işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
 
-_________
-_________
