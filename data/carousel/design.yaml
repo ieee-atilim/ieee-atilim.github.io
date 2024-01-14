@@ -1,10 +1,9 @@
 weight: 3
-title: "Design"
+title: "Biz Kimiz"
 description: >
   <ul class="list-style-none">
-    <li>Clean and elegant design</li>
-    <li>Full width and boxed mode</li>
-    <li>Easily readable Roboto font and awesome icons</li>
-    <li>7 preprepared colour variations</li>
+    <li>IEEE'nin ne olduğuna dair ,</li>
+    <li>Atılım Üniversitesi Öğrenci Kolu ile ilgili bilgi almak için tıklayın!</li>
   </ul>
-image: "img/carousel/template-easy-customize.png"
+image: "img/carousel/ieee_flag.png"
+href: "ieee-atilim.github.io/about_us/"
