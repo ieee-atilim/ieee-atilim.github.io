@@ -2,75 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://devcows.github.io/hugo-universal-theme/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/authors/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/about_us/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/our_team/yk/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/categories/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/our_team/cs/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/2021/08/01/categories-post/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/our_team/wie/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/golang/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/our_team/ras/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/hugo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/our_team/ea/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/authors/john-doe/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/our_team/kok/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/categories/lorem/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/our_team/sk/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/our_team/tt/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/categories/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/events/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/categories/pseudo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/contact/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/categories/av%C4%B1at%C4%B1on/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/theme/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/categories/beyond-the-experience/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/authors/jane-doe/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/categories/cyber-secur%C4%B1ty/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/categories/gezi/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/categories/kahvalt%C4%B1/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/2015/09/17/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/tags/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/2015/08/03/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/categories/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/events/2023/11/29/bte1/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://ieee-atilim.github.io/events/2023/11/28/efesgezi/</loc>
+    <lastmod>2024-01-14T15:40:00+03:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/faq/</loc>
+    <loc>https://ieee-atilim.github.io/events/2023/10/28/bolge-kahvalti/</loc>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/contact/</loc>
+    <loc>https://ieee-atilim.github.io/events/2023/10/09/tusas-gezi/</loc>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/ipsum/</loc>
-  </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/1/01/01/migrate-from-jekyll/</loc>
+    <loc>https://ieee-atilim.github.io/events/2023/02/04/cybertalks/</loc>
   </url>
 </urlset>
