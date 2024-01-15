@@ -115,11 +115,11 @@ pluralizelisttitles = false
     url        = "/events/"
     weight     = 4
 
-[[menu.main]]
-    name       = "Bülten"
-    identifier = "menu.bulten"
-    url        = "/bulten/"
-    weight     = 0
+#[[menu.main]]
+#    name       = "Bülten"
+#    identifier = "menu.bulten"
+#    url        = "/bulten/"
+#    weight     = 0
 
 [[menu.main]]
     identifier = "contact"
