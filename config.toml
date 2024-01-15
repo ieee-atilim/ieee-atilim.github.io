@@ -119,7 +119,7 @@ pluralizelisttitles = false
     name       = "Bülten"
     identifier = "menu.bulten"
     url        = "/bulten/"
-    weight     = 5
+    weight     = 0
 
 [[menu.main]]
     identifier = "contact"
