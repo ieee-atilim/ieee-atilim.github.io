@@ -2,7 +2,13 @@ weight: 2
 title: "Ekibimiz "
 description: >
   <ul class="list-style-none">
-     <li>Ekibimiz hakkında detaylı bilgi edinin!</li>
+     <li>IEEE Atılım Üniversitesi Öğrenci Kolu Resmi Web Sitesine Hoş Geldiniz</li>
+     <li>Bizimle İletişime Geçmek İçin</li>
    </ul>
-image: "img/carousel/team_photo.jpg"
-href: "https://ieee-atilim.github.io/our_team/yk/"
+#image: "img/carousel/team_photo.jpg"#
+href: "https://ieee-atilim.github.io/about_us/"
+contact:
+    email: atilimunieee@gmail.com
+    instagram: https://www.instagram.com/ieeeatilim/
+    linkedin: https://www.linkedin.com/company/ieee-at%C4%B1l%C4%B1m-%C3%BCniversitesi/
+    github: https://github.com/ieee-atilim
