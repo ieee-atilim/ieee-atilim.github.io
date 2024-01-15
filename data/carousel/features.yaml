@@ -1,12 +1,12 @@
 weight: 2
-title: "IEEE Atılım Üniversitesi Öğrenci Kolu Resmi Web Sitesine Hoş Geldiniz"
+title: "IEEE Atılım Üniversitesi Öğrenci Kolu"
 description: >
   <ul class="list-style-none">
-     <li>Bizimle İletişime Geçin!</li>
-     <a href="https://www.instagram.com/ieeeatilim/">Instagram</a> <a href="https://twitter.com/ieeeatilim">X</a> <a href="https://www.linkedin.com/company/ieee-at%C4%B1l%C4%B1m-%C3%BCniversitesi/">LinkedIn</a>
+     <li>Web Sitemize Hoş Geldiniz!</li>
+     <li>Üst menüyü kullanarak hakkımızda daha fazla bilgi edinebilir, ekibimiz ile iletiişime geçebilirsiniz.</li>
    </ul>
 #image: "img/carousel/team_photo.jpg"#
-href: "https://ieee-atilim.github.io/about_us/"
+href: ""
 contact:
     email: atilimunieee@gmail.com
     instagram: https://www.instagram.com/ieeeatilim/
