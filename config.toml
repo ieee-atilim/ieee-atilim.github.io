@@ -41,7 +41,7 @@ pluralizelisttitles = false
     [[menu.main]]
     name       = "Ekibimiz"
     identifier = "menu.our_team"
-    url        = "/img/template-homepage.png"
+    url        = "/img/carousel/team_photo.jpg"
     weight     = 3
 
 [[menu.main]]
