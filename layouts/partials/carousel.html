@@ -15,11 +15,11 @@
                     <a href="{{ .href }}" target="_blank" title="{{ .title | safeHTML }}">
                     {{ end }}
                         <div class="row">
-                            <div class="col-sm-5" style="text-align: center;">
+                            <div class="col-sm-5 right">
                                 <h1>{{ .title | safeHTML }}</h1>
                                 {{ .description | safeHTML }}
                             </div>
-                            <div class="col-sm-7" style="text-align: center;">
+                            <div class="col-sm-7">
                                 <img class="img-responsive" src="{{ .image }}" alt="">
                             </div>
                         </div>
