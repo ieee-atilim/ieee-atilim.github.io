@@ -1,9 +1,0 @@
-weight: 3
-title: "Biz Kimiz"
-description: >
-  <ul class="list-style-none">
-    <li>IEEE'nin ne olduğuna dair ,</li>
-    <li>Atılım Üniversitesi Öğrenci Kolu ile ilgili bilgi almak için tıklayın!</li>
-  </ul>
-image: "img/carousel/ieee_flag.png"
-href: "ieee-atilim.github.io/about_us/"
