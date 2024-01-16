@@ -1,11 +1,11 @@
 weight: 3
-title: "ROBOTICS & AUTOMATION SOCIETY"
+title: "IEEE Türkiye"
 description: >
   <ul class="list-style-none">
-     <li>ROBOTICS & AUTOMATION SOCIETY komitemiz hakkında daha fazla bilgi almak için tıklayın.</li>
+     <li>IEEE Türkiye SECTION hakkında daha fazla bilgi almak için tıklayın.</li>
    </ul>
-#image: "img/comittee_logo/ras_logo.png"
-href: "https://ieee-atilim.github.io/our_team/ras/"
+image: "img/carousel/sectionlogo.png"
+href: "https://www.ieee.org.tr/"
 contact:
     email: atilimunieee@gmail.com
     instagram: https://www.instagram.com/ieeeatilim/
