@@ -1,6 +1,7 @@
 +++
 title = "COMPUTER SOCIETY"
 +++
+![cs](/img/comittee_logo/cs-full.png)
 
 ## Computer Society Nedir?
                            
