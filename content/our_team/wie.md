@@ -1,6 +1,7 @@
 +++
 title = "WOMEN IN ENGINEERING"
 +++
+![cs](/img/comittee_logo/wielogo.png)
 
 ## Women in Engineering Nedir?
 
