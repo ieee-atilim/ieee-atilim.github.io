@@ -1,7 +1,7 @@
 weight: 2
 title: "COMPUTER SOCIETY"
 description: >
-  <ul class="list-style-none" style="text-align: center;">
+  <ul class="list-style-none">
      <li>COMPUTER SOCIETY komitemiz hakkında daha fazla bilgi almak için tıklayın.</li>
    </ul>
 #image: "img/comittee_logo/cs_logo.png"
