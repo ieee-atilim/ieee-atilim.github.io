@@ -1,11 +1,12 @@
 weight: 2
-title: "COMPUTER SOCIETY"
+title: "CSCON'24"
 description: >
   <ul class="list-style-none">
-     <li>COMPUTER SOCIETY komitemiz hakkında daha fazla bilgi almak için tıklayın.</li>
+     <li>IEEE Computer SOCIETY Türkiye Chapter'ın En Büyük Etkinliği</li>
+     <li>Detaylar İçin Tıklayın</li>
    </ul>
-#image: "img/comittee_logo/cs_logo.png"
-href: "https://ieee-atilim.github.io/our_team/cs/"
+image: "img/cscon/csconlogo.jpg"
+href: "https://ieee-atilim.github.io/cscon/"
 contact:
     email: atilimunieee@gmail.com
     instagram: https://www.instagram.com/ieeeatilim/
