@@ -1,7 +1,7 @@
 weight: 3
 title: "ROBOTICS & AUTOMATION SOCIETY"
 description: >
-  <ul class="list-style-none">
+  <ul class="list-style-none" style="text-align: center;">
      <li>ROBOTICS & AUTOMATION SOCIETY komitemiz hakkında daha fazla bilgi almak için tıklayın.</li>
    </ul>
 #image: "img/comittee_logo/ras_logo.png"
