@@ -261,7 +261,7 @@ pluralizelisttitles = false
     tags = true
     categoriesforbulten = true
     tagsforbulten = true
-    search = true
+    search = false
 
 
 [params.carouselCustomers]
