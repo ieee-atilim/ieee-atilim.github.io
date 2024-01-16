@@ -4,7 +4,7 @@ description: >
   <ul class="list-style-none">
      <li>ROBOTICS & AUTOMATION SOCIETY komitemiz hakkında daha fazla bilgi almak için tıklayın.</li>
    </ul>
-image: "img/comittee_logo/ras_logo.png"
+#image: "img/comittee_logo/ras_logo.png"
 href: "https://ieee-atilim.github.io/our_team/ras/"
 contact:
     email: atilimunieee@gmail.com
