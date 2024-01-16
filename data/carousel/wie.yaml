@@ -1,7 +1,7 @@
 weight: 4
 title: "WOMEN IN ENGINEERING"
 description: >
-  <ul class="list-style-none">
+  <ul class="list-style-none" style="text-align: center;">
      <li>WOMEN IN ENGINEERING komitemiz hakkında daha fazla bilgi almak için tıklayın.</li>
    </ul>
 #image: "img/comittee_logo/wie_logo.png"
