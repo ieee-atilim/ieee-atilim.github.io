@@ -3,10 +3,10 @@ title = "İletişim"
 id = "contact"
 +++
  ## Bize Ulaşın
- #### [atilimunieee@gmail.com](mailto:atilimunieee@gmail.com) ![E-Mail](/img/contactlogo/mail.png)
+ #### [![E-Mail](/img/contactlogo/mail.png)] (mailto:atilimunieee@gmail.com)
 
- #### [IEEE Atılım Instagram](https://www.instagram.com/ieeeatilim/) ![Instagram](/img/contactlogo/instagtam.png)
+ #### [![Instagram](/img/contactlogo/instagtam.png)] (https://www.instagram.com/ieeeatilim/)
 
- #### [IEEE Atılım LinkedIn](https://www.linkedin.com/company/ieee-at%C4%B1l%C4%B1m-%C3%BCniversitesi/) ![LinkedIn](/img/contactlogo/linkedin.png)
+ #### [![LinkedIn](/img/contactlogo/linkedin.png)] (https://www.linkedin.com/company/ieee-at%C4%B1l%C4%B1m-%C3%BCniversitesi/)
 
- #### [IEEE Atılım Github](https://github.com/ieee-atilim) ![Github](/img/contactlogo/github.png)
+ #### [![Github](/img/contactlogo/github.png)] (https://github.com/ieee-atilim)
