@@ -1,5 +1,5 @@
 +++
-title = "ROBOTICS & AUTOMATION SOCIETY"
+title = "ROBOTICS AND AUTOMATION SOCIETY"
 +++
 
 ## Robotics & Automation Society Nedir?
