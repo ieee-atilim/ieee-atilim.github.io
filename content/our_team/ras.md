@@ -1,7 +1,7 @@
 +++
 title = "ROBOTICS AND AUTOMATION SOCIETY"
 +++
-![cs](/img/comittee_logo/RAS.png)
+![cs](/img/comittee_logo/ras_logo.png)
 
 ## Robotics & Automation Society Nedir?
 
