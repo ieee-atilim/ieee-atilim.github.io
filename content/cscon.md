@@ -2,7 +2,7 @@
 title = "CSCON'24"
 +++
 
-![CSCON LOGO](/img/cscon/csconlogo.png)
+![CSCON LOGO](/img/cscon/csconlogo.jpg)
 
 ## CSCON Nedir?
 
