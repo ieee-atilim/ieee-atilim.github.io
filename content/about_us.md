@@ -29,4 +29,3 @@ adından söz ettirmek,
 işbirliklerinde tercih ettiği gözde bir öğrenci kulübü olmak.
 
 ___________
-___________
