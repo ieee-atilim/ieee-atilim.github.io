@@ -122,6 +122,12 @@ pluralizelisttitles = false
 #    weight     = 0
 
 [[menu.main]]
+    name       = "CSCON'24"
+    identifier = "menu.cscon"
+    url        = "/cscon/"
+    weight     = 5
+    
+[[menu.main]]
     identifier = "contact"
     name       = "İletişim"
     url        = "/contact/"
