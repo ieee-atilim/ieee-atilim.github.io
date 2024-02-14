@@ -6,7 +6,7 @@ categories = ["CSCON"]
 banner = "img/banners/cscon.jpg"
 +++
 
-### IEEE Türkiye Student Branch Computer Society'nin Ulusal Çaplı En Büyük Etkinliği CSCON bu yıl üniversitemizde!
+### IEEE Türkiye Student Branch Computer Society'nin en büyük etkinliği CSCON bu yıl üniversitemizde!
 ### [Etkinlik Instagram Gönderisi](https://www.instagram.com/p/)
 [![etkinlik](/img/cscon/csconlarge.png)](https://www.instagram.com/p/)
 ______
