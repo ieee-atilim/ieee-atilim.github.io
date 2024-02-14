@@ -1,6 +1,6 @@
 +++
 title = "CSCON'24 Atılım'da!"
-date = "2024-02-14T21:29:20+02:00"
+date = "2024-02-13T21:29:20+02:00"
 tags = ["CSCON"]
 categories = ["CSCON"]
 banner = "img/cscon/cscon.png"
