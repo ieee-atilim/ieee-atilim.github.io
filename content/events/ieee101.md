@@ -6,8 +6,8 @@ categories = ["IEEE101"]
 banner = "img/banners/ieee101.png"
 +++
 
-### IEEE
-### [Etkinlik Instagram Gönderisi](https://www.instagram.com/p/Cy8bfYMNIvX/?img_index=1)
+### Merhaba sevgili IEEE Ailesi, Bu dönemin hem tanışma hem de bilgilendirici “IEEE101” etkinliğimizde hepinizi görmekten mutluluk duyarız. Dünyanın en büyük teknik, profesyonel organizasyonu IEEE yapısını, içeriğini, neler yapabileceğimizi konuşup, IEEE Global yapısını tanıyacağız. Etkinliğimiz Mühendislik Fakültesi 1020 NO.LU sınıfta, 20 Şubat Salı günü saat 16.30'da olacak. 🥳. 🥳🎊🎉
+### [Etkinlik Instagram Gönderisi](https://www.instagram.com/p/)
 [![etkinlik](/img/banners/ieee101.png)](https://www.instagram.com/p/)
 ______
 
